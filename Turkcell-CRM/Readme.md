@@ -137,6 +137,5 @@ networks:
 
 `Devamı gelicek . . .`
 
-## Berat Hazer
 
 
