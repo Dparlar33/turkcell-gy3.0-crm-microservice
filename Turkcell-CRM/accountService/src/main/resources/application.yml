@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: accountService
+  config:
+    import: configserver:http://${serverUrl}:8050/
+  cloud:
+    config:
+      profile: ${profile}
+
+serverUrl: config-server-prod  #localhost or config-server-prod
+profile: prod # dev or prod
+

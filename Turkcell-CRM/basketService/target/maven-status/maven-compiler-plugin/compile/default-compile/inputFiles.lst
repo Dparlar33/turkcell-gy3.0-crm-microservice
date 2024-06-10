@@ -1,0 +1,17 @@
+C:\Users\dparl\Desktop\Turkcell-CRM\Turkcell-CRM\basketService\src\main\java\com\turkcell\crm\basketService\core\entites\BaseEntity.java
+C:\Users\dparl\Desktop\Turkcell-CRM\Turkcell-CRM\basketService\src\main\java\com\turkcell\crm\basketService\configuration\RedisConfig.java
+C:\Users\dparl\Desktop\Turkcell-CRM\Turkcell-CRM\basketService\src\main\java\com\turkcell\crm\basketService\core\utilities\exceptions\handlers\GlobalExceptionHandler.java
+C:\Users\dparl\Desktop\Turkcell-CRM\Turkcell-CRM\basketService\src\main\java\com\turkcell\crm\basketService\business\concretes\BasketManager.java
+C:\Users\dparl\Desktop\Turkcell-CRM\Turkcell-CRM\basketService\src\main\java\com\turkcell\crm\basketService\core\utilities\mapping\ModelMapperManager.java
+C:\Users\dparl\Desktop\Turkcell-CRM\Turkcell-CRM\basketService\src\main\java\com\turkcell\crm\basketService\core\utilities\exceptions\problemDetails\ValidationProblemDetails.java
+C:\Users\dparl\Desktop\Turkcell-CRM\Turkcell-CRM\basketService\src\main\java\com\turkcell\crm\basketService\dataAccess\RedisRepository.java
+C:\Users\dparl\Desktop\Turkcell-CRM\Turkcell-CRM\basketService\src\main\java\com\turkcell\crm\basketService\entity\BasketItem.java
+C:\Users\dparl\Desktop\Turkcell-CRM\Turkcell-CRM\basketService\src\main\java\com\turkcell\crm\basketService\BasketServiceApplication.java
+C:\Users\dparl\Desktop\Turkcell-CRM\Turkcell-CRM\basketService\src\main\java\com\turkcell\crm\basketService\entity\Basket.java
+C:\Users\dparl\Desktop\Turkcell-CRM\Turkcell-CRM\basketService\src\main\java\com\turkcell\crm\basketService\api\controller\BasketController.java
+C:\Users\dparl\Desktop\Turkcell-CRM\Turkcell-CRM\basketService\src\main\java\com\turkcell\crm\basketService\core\utilities\exceptions\types\BusinessException.java
+C:\Users\dparl\Desktop\Turkcell-CRM\Turkcell-CRM\basketService\src\main\java\com\turkcell\crm\basketService\business\abstracts\BasketService.java
+C:\Users\dparl\Desktop\Turkcell-CRM\Turkcell-CRM\basketService\src\main\java\com\turkcell\crm\basketService\core\utilities\mapping\ModelMapperService.java
+C:\Users\dparl\Desktop\Turkcell-CRM\Turkcell-CRM\basketService\src\main\java\com\turkcell\crm\basketService\core\utilities\exceptions\problemDetails\BusinessProblemDetails.java
+C:\Users\dparl\Desktop\Turkcell-CRM\Turkcell-CRM\basketService\src\main\java\com\turkcell\crm\basketService\core\utilities\exceptions\problemDetails\ProblemDetails.java
+C:\Users\dparl\Desktop\Turkcell-CRM\Turkcell-CRM\basketService\src\main\java\com\turkcell\crm\basketService\api\client\OrderClient.java

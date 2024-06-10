@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+
+  customerdbdev:
+    container_name: customerdbdev
+    image: postgres
+    ports:
+      - "5450:5432"
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=12345
+      - POSTGRES_DB=CRMCustomerServiceDB
+
+    volumes:
+      - "customer_data:/var/lib/postgresql/data"
+
+
+  basketdbdev:
+    image: redis:latest
+    container_name: basketdbdev
+    ports:
+      - "6379:6379"
+      
+volumes:
+  customer_data:
+    name: customer_data
+    

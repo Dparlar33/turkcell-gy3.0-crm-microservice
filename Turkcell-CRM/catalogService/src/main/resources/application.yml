@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: catalogService
+  config:
+    import: configserver:http://${serverUrl}:8050/
+  cloud:
+    config:
+      profile: ${profile}
+
+serverUrl: config-server-prod  #localhost or configserverprod
+profile: prod # dev or prod
